@@ -1,5 +1,5 @@
 
-This is a temporary repository for our CVPR submission "D-ViCe: A Dual Variance-Enhanced Contrastive Framework for Graph Representation Learning"
+This is a temporary repository for our submission "D-ViCe: A Dual Variance-Enhanced Contrastive Framework for Graph Representation Learning"
 
 This temporary repo contains only 
 
